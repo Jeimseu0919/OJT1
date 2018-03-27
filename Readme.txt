@@ -1,6 +1,16 @@
-Thanks for downloading this theme!
-
-Theme Name: BizPage
-Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Home: Nol and James
+About: Jeff and Ivy
+	mission
+	visson:
+Directory: Nol and James
+	officer
+	adviser
+Lousian Gazette: Mark and hazel
+	News
+	Statement
+	Opinions
+Inquiries: Jeff and Ivy
+	Question
+	Comments
+	Contact
+	
