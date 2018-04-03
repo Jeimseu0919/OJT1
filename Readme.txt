@@ -1,16 +1,6 @@
-Home: Nol and James
-About: Jeff and Ivy
-	mission: kunin ninyo sa mga reporma yung mga docu.
-	visson:
-Directory: Nol and James
-	officer: yung sa reporma na lng kulang
-	adviser
-Lousian Gazette: Mark and hazel
-	News
-	Statement
-	Opinions
-Inquiries: Jeff and Ivy
-	Question
-	Comments
-	Contact
-	
+Thanks for downloading this theme!
+
+Theme Name: BizPage
+Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+Author: BootstrapMade.com
+Author URL: https://bootstrapmade.com
